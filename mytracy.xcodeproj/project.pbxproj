@@ -15,6 +15,7 @@
 		9B04CD3D244D847D00045A3F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B04CD3B244D847D00045A3F /* LaunchScreen.storyboard */; };
 		9B04CD48244D847D00045A3F /* mytracyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B04CD47244D847D00045A3F /* mytracyTests.swift */; };
 		9B04CD53244D847D00045A3F /* mytracyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B04CD52244D847D00045A3F /* mytracyUITests.swift */; };
+		9B7A65F0246C050400D85751 /* fitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7A65EF246C050400D85751 /* fitViewController.swift */; };
 		9BDFF223244DA76B00F529A9 /* CustomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDFF222244DA76B00F529A9 /* CustomViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -50,6 +51,7 @@
 		9B04CD4E244D847D00045A3F /* mytracyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mytracyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B04CD52244D847D00045A3F /* mytracyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mytracyUITests.swift; sourceTree = "<group>"; };
 		9B04CD54244D847D00045A3F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B7A65EF246C050400D85751 /* fitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fitViewController.swift; sourceTree = "<group>"; };
 		9BDFF222244DA76B00F529A9 /* CustomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -104,6 +106,7 @@
 				9B04CD30244D847A00045A3F /* AppDelegate.swift */,
 				9B04CD32244D847A00045A3F /* SceneDelegate.swift */,
 				9B04CD34244D847A00045A3F /* ViewController.swift */,
+				9B7A65EF246C050400D85751 /* fitViewController.swift */,
 				9BDFF222244DA76B00F529A9 /* CustomViewController.swift */,
 				9B04CD36244D847A00045A3F /* Main.storyboard */,
 				9B04CD39244D847D00045A3F /* Assets.xcassets */,
@@ -265,6 +268,7 @@
 				9B04CD35244D847A00045A3F /* ViewController.swift in Sources */,
 				9B04CD31244D847A00045A3F /* AppDelegate.swift in Sources */,
 				9B04CD33244D847A00045A3F /* SceneDelegate.swift in Sources */,
+				9B7A65F0246C050400D85751 /* fitViewController.swift in Sources */,
 				9BDFF223244DA76B00F529A9 /* CustomViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
